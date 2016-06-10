@@ -1,1 +1,1 @@
-# Operating-Systems-Memory-Management-PFF-VSWS-Algorithms-
+# Operating Systems: Memory Management (PFF & VSWS Algorithms)
