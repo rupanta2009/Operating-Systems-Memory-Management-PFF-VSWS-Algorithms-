@@ -1,11 +1,5 @@
-# Program		: ASSIGNMENT 3 (PFF & VSWS Algorithms)	
 # Name			: RUPANTA RWITEEJ DUTTA
-# Email Address		: rrd300@nyu.edu
 # Date of Creation	: 12.12.2015
-# School		: NYU Tandon School of Engineering
-# NYU ID		: N15786532
-# Net ID		: rrd300
-# Subject		: Introduction to Operating System
 
 # This Program takes a file as input on the command line and calculates number of page faults by implementing the PFF 
 #   and VSWS Algorithms.
